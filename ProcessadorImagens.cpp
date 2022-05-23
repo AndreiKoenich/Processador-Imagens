@@ -1036,6 +1036,3 @@ int main()
 	inicia_programa();
 	return 0;
 }
-
-
-
